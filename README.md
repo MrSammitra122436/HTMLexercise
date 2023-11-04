@@ -1,5 +1,5 @@
 # Sign-in page
-I have designed a simple web page for user sign-in using HTML and CSS. This clean and user-friendly page includes the following key elements:
+I have designed a simple web page for user sign-in using HTML and CSS. This clean and user-friendly page includes the following key feature:
 
 1. **Form**: The main content of the page is a well-structured form. This form includes the following fields:
 + *Name Field:* A text input field for the user's name.
